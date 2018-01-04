@@ -19,17 +19,18 @@ You can find the most recent version of this guide [here](https://github.com/fac
 
 
 
-## Releases
-
-
-
-
-
-
 
 
 
 ## Run Locally
+
+
+
+
+
+## Releases
+
+1.0.0 - completed tutorial, see the issues in docs for things that don't work quite right.
 
 
 
